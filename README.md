@@ -34,7 +34,7 @@ To update the RSS feed URL:
 3. Click on **Actions**
 4. Edit the **RSS_URL** secret to the new URL
 
-### Changing the schedule
+### Changing the schedule
 If you need to change the frequency or time with which the workflow updates, you'll want to edit the [update-feed.yml](.github/workflows/update-feed.yml) file.
 
 1. Open up the [update-feed.yml](.github/workflows/update-feed.yml) file
