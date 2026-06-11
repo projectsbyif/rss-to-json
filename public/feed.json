@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-10T07:27:42.659Z",
+  "updatedAt": "2026-06-11T07:39:09.222Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/4b516f4e4378",
+      "title": "Ten years. Ten discoveries about trust.",
+      "link": "https://medium.com/writing-by-if/ten-years-ten-discoveries-about-trust-4b516f4e4378?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 10 Jun 2026 12:47:23 GMT",
+      "updated": "2026-06-10T13:50:12.416Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*NkF976NSatCxkDj6ILzaMQ.png",
+      "excerpt": "In 2015, I gave a TEDx talk that nobody seemed very interested in. The dominant conversation in technology at the time was about open data: what governments should publish, what people could access. My talk was about the social contract. I wanted to know how relationships between people and…"
+    },
     {
       "id": "https://medium.com/p/88b67cde62c7",
       "title": "Your LLM isn’t getting better. The services it uses are.",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*bh4SYWoWq-qkVjDsMyFXXw.png",
       "excerpt": "This blog post is an update to our design patterns for AI which we shared last year. The new patterns we’ve added are: Show capabilities and limitations Offer task-level suggestions Adapt to content and context At Projects by IF we believe that trust matters When designing for trust we often talk…"
-    },
-    {
-      "id": "https://medium.com/p/ae1cbf223322",
-      "title": "AI adoption struggles when trust is missing",
-      "link": "https://medium.com/writing-by-if/ai-adoption-struggles-when-trust-is-missing-ae1cbf223322?source=rss----d5b13bdf0ba5---4",
-      "published": "Wed, 05 Mar 2025 12:43:39 GMT",
-      "updated": "2025-03-05T12:43:38.857Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*fmhx5Xs-gTnZiZ3iDDt-Sw.jpeg",
-      "excerpt": "A couple of weeks ago, I spoke at the AI Fringe on a panel about trust and safety. One of the points I raised resonated strongly with the audience, so I wanted to write about it here. This blog post explores why a lack of trust in AI creates adoption challenges for organisations and what to do. You…"
     }
   ]
 }
