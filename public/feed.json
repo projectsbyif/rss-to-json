@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-15T07:56:30.825Z",
+  "updatedAt": "2026-06-16T07:55:47.002Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/8193cdffb350",
+      "title": "Publishing into the void",
+      "link": "https://medium.com/writing-by-if/publishing-into-the-void-8193cdffb350?source=rss----d5b13bdf0ba5---4",
+      "published": "Mon, 15 Jun 2026 09:35:59 GMT",
+      "updated": "2026-06-15T09:35:58.133Z",
+      "author": "Gemma Lord",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*UPN90siedSjZa6Qf1QCfCQ.jpeg",
+      "excerpt": "Photo by Claudio Schwarz on Unsplash The missing feedback in the UK’s public data ecosystem Every time a council registers a planning application, a birth or death is recorded, or the environment agency logs a flood warning — that’s public sector information (PSI). It’s unglamorous, administrative,…"
+    },
     {
       "id": "https://medium.com/p/4b516f4e4378",
       "title": "Ten years. Ten discoveries about trust.",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*INMviGHbkaG5xbdSRM3Jzg@2x.jpeg",
       "excerpt": "Digital ID is not just a technology test. It’s a trust test. And the UK can’t afford to fail. Friday’s announcement that the Government will launch a mandatory digital identity scheme (“BritCard”) for Right to Work checks, with smartphone and fallback routes, is a defining moment. It follows a…"
-    },
-    {
-      "id": "https://medium.com/p/cbd87ef750c6",
-      "title": "3 new patterns for trustworthy AI customer support",
-      "link": "https://medium.com/writing-by-if/3-new-patterns-for-trustworthy-ai-customer-support-cbd87ef750c6?source=rss----d5b13bdf0ba5---4",
-      "published": "Mon, 01 Sep 2025 11:19:34 GMT",
-      "updated": "2025-09-01T11:19:34.583Z",
-      "author": "Ronan Kelly",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*bh4SYWoWq-qkVjDsMyFXXw.png",
-      "excerpt": "This blog post is an update to our design patterns for AI which we shared last year. The new patterns we’ve added are: Show capabilities and limitations Offer task-level suggestions Adapt to content and context At Projects by IF we believe that trust matters When designing for trust we often talk…"
     }
   ]
 }
