@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-17T07:48:18.541Z",
+  "updatedAt": "2026-06-18T07:39:20.738Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/0f01829bc6bb",
+      "title": "Trust is loaned, not owned",
+      "link": "https://medium.com/writing-by-if/trust-is-loaned-not-owned-0f01829bc6bb?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 17 Jun 2026 08:24:23 GMT",
+      "updated": "2026-06-17T08:24:23.159Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*F-LPuC5Z7j8LFJ3pMflD8A.png",
+      "excerpt": "Many organisations talk about trust as if it’s a stable asset: something they build, own and occasionally repair if damage occurs. They measure it in surveys and assign it to the communications team to manage. But trust is not something that’s owned in this way. It’s loaned to you by the people who…"
+    },
     {
       "id": "https://medium.com/p/8193cdffb350",
       "title": "Publishing into the void",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*CEIyydbphrSGqU6lYKuSVA.jpeg",
       "excerpt": "New materials require new tools Large organisations under competitive or regulatory pressure have a huge opportunity to drive efficiency and unlock new capability with Generative AI. But many are applying it with delivery models built for a different era. This holds them back. At a recent…"
-    },
-    {
-      "id": "https://medium.com/p/09a9042b78c5",
-      "title": "Digital ID is a trust test the UK can’t afford to fail",
-      "link": "https://medium.com/writing-by-if/digital-id-is-a-trust-test-the-uk-cant-afford-to-fail-09a9042b78c5?source=rss----d5b13bdf0ba5---4",
-      "published": "Tue, 30 Sep 2025 08:19:57 GMT",
-      "updated": "2025-09-30T08:35:54.367Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*INMviGHbkaG5xbdSRM3Jzg@2x.jpeg",
-      "excerpt": "Digital ID is not just a technology test. It’s a trust test. And the UK can’t afford to fail. Friday’s announcement that the Government will launch a mandatory digital identity scheme (“BritCard”) for Right to Work checks, with smartphone and fallback routes, is a defining moment. It follows a…"
     }
   ]
 }
