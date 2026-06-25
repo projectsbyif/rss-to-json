@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-06-24T07:10:16.574Z",
+  "updatedAt": "2026-06-25T07:10:24.608Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/6c83a0d0f729",
+      "title": "Just enough trust",
+      "link": "https://medium.com/writing-by-if/just-enough-trust-6c83a0d0f729?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 24 Jun 2026 08:26:45 GMT",
+      "updated": "2026-06-24T08:26:45.383Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*6PLcJ5vmz-quXaJqqlLqhg.png",
+      "excerpt": "Organisations generally want to gain people’s trust, and maximise this to the greatest extent possible, but what we’ve found during our decade working on this issue is that this is the wrong goal. A system people trust completely and without question is as dangerous as one they don’t trust at all.…"
+    },
     {
       "id": "https://medium.com/p/0f01829bc6bb",
       "title": "Trust is loaned, not owned",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*xWgw_ir9KhAeFdI3gJmpHA.jpeg",
       "excerpt": "Close the adoption gap by moving fast — but safely AI adoption is no longer optional. It’s happening whether organisations are ready or not. Every week, new tools roll out, new risks emerge, and new pressures land on teams to “use AI now.” But here’s the real issue: the gap isn’t between the…"
-    },
-    {
-      "id": "https://medium.com/p/444d40fa0ee6",
-      "title": "Delivering successful AI after it breaks your existing operational model",
-      "link": "https://medium.com/writing-by-if/delivering-successful-ai-after-it-breaks-your-existing-operational-model-444d40fa0ee6?source=rss----d5b13bdf0ba5---4",
-      "published": "Tue, 30 Sep 2025 09:06:32 GMT",
-      "updated": "2025-10-24T10:37:48.109Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*CEIyydbphrSGqU6lYKuSVA.jpeg",
-      "excerpt": "New materials require new tools Large organisations under competitive or regulatory pressure have a huge opportunity to drive efficiency and unlock new capability with Generative AI. But many are applying it with delivery models built for a different era. This holds them back. At a recent…"
     }
   ]
 }
