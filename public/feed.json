@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-01T07:28:44.195Z",
+  "updatedAt": "2026-07-02T07:06:45.588Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/240d5596b84f",
+      "title": "Frictionless is a risk",
+      "link": "https://medium.com/writing-by-if/frictionless-is-a-risk-240d5596b84f?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 01 Jul 2026 08:24:22 GMT",
+      "updated": "2026-07-01T08:24:23.458Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*S7tJJ-rHMkZrrc_KK7h0jA.png",
+      "excerpt": "There’s a strong instinct to make AI-enabled services feel seamless, fast and invisible. That instinct comes from a good place. It doesn’t make sense to make a product unnecessarily complicated to use, and friction has become the enemy of good design. There’s a reason why Steve Krug’s classic book…"
+    },
     {
       "id": "https://medium.com/p/6c83a0d0f729",
       "title": "Just enough trust",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*KgMQDUeaITsGUiqXFpIYlA.jpeg",
       "excerpt": "A familiar pattern is emerging in organisations trying to adopt AI. Pilots appear everywhere, teams experiment, but very little of it turns into something people can actually use. Many leaders I speak to say roughly the same thing: “We know AI is important, but the value is always one step away.”…"
-    },
-    {
-      "id": "https://medium.com/p/a25551557fa6",
-      "title": "Crossing the AI divide: Why confidence, not code, decides who wins",
-      "link": "https://medium.com/writing-by-if/crossing-the-ai-divide-why-confidence-not-code-decides-who-wins-a25551557fa6?source=rss----d5b13bdf0ba5---4",
-      "published": "Thu, 06 Nov 2025 15:31:57 GMT",
-      "updated": "2025-11-06T15:31:47.645Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*xWgw_ir9KhAeFdI3gJmpHA.jpeg",
-      "excerpt": "Close the adoption gap by moving fast — but safely AI adoption is no longer optional. It’s happening whether organisations are ready or not. Every week, new tools roll out, new risks emerge, and new pressures land on teams to “use AI now.” But here’s the real issue: the gap isn’t between the…"
     }
   ]
 }
