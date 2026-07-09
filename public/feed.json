@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-08T06:49:30.904Z",
+  "updatedAt": "2026-07-09T07:10:43.590Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/6685a0123809",
+      "title": "Useful beats transparent",
+      "link": "https://medium.com/writing-by-if/useful-beats-transparent-6685a0123809?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 08 Jul 2026 11:28:26 GMT",
+      "updated": "2026-07-08T11:28:25.903Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*L-EsIiH1CxjJQUOwy6HALw.png",
+      "excerpt": "When an AI system causes harm or produces an outcome that feels wrong, the standard, and very understandable, response is to call for maximum transparency: publish the training data, document the model, explain the decision. But what’s actually required is more nuanced. Transparency means making…"
+    },
     {
       "id": "https://medium.com/p/240d5596b84f",
       "title": "Frictionless is a risk",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*d3vXvx1k9VzVJM6mkoCrJg.jpeg",
       "excerpt": "2025 made one thing unmistakably clear: the work of trust can’t wait. As AI systems shape more of our services and decisions, organisations are realising they need more than velocity. They need confidence, transparency and feedback loops that keep them in control. This was the year IF scaled to…"
-    },
-    {
-      "id": "https://medium.com/p/27e2a4c7724d",
-      "title": "Closing the AI adoption gap: lessons from Monzo, Experian and DeepMind",
-      "link": "https://medium.com/writing-by-if/closing-the-ai-adoption-gap-lessons-from-monzo-experian-and-deepmind-27e2a4c7724d?source=rss----d5b13bdf0ba5---4",
-      "published": "Wed, 03 Dec 2025 14:52:49 GMT",
-      "updated": "2025-12-03T14:52:48.399Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*KgMQDUeaITsGUiqXFpIYlA.jpeg",
-      "excerpt": "A familiar pattern is emerging in organisations trying to adopt AI. Pilots appear everywhere, teams experiment, but very little of it turns into something people can actually use. Many leaders I speak to say roughly the same thing: “We know AI is important, but the value is always one step away.”…"
     }
   ]
 }
