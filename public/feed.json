@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-15T06:44:20.355Z",
+  "updatedAt": "2026-07-16T06:48:28.623Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/18546f18bcaf",
+      "title": "More proof, more potential",
+      "link": "https://medium.com/writing-by-if/more-proof-more-potential-18546f18bcaf?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 15 Jul 2026 08:16:00 GMT",
+      "updated": "2026-07-15T08:16:00.894Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*EE0ak_o_l_E5B2ju8oh8sA.png",
+      "excerpt": "In 2017 we worked with DeepMind Health on something called Verifiable Data Audit . The ambition was to create a record of what was being done with patient data. We helped shape what that record would collect and how it would operate. Every interaction with the data would be added to a ledger that…"
+    },
     {
       "id": "https://medium.com/p/6685a0123809",
       "title": "Useful beats transparent",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*mYpWJ5Urv-A6XOgkWnU45g.png",
       "excerpt": "Consent is still treated as a one-off checkbox, while organisations’ use of data is constantly changing — including its use in training AI systems. This post introduces three new patterns to our design catalogue that reframe consent as something visible, revisitable, and meaningful. These patterns…"
-    },
-    {
-      "id": "https://medium.com/p/9ae33e680f3d",
-      "title": "2025: the year trust won",
-      "link": "https://medium.com/writing-by-if/2025-the-year-trust-won-9ae33e680f3d?source=rss----d5b13bdf0ba5---4",
-      "published": "Fri, 12 Dec 2025 09:11:41 GMT",
-      "updated": "2025-12-12T09:11:41.837Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*d3vXvx1k9VzVJM6mkoCrJg.jpeg",
-      "excerpt": "2025 made one thing unmistakably clear: the work of trust can’t wait. As AI systems shape more of our services and decisions, organisations are realising they need more than velocity. They need confidence, transparency and feedback loops that keep them in control. This was the year IF scaled to…"
     }
   ]
 }
