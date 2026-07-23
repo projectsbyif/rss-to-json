@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-07-22T06:51:10.248Z",
+  "updatedAt": "2026-07-23T06:49:40.761Z",
   "title": "Writing by IF - Medium",
   "description": "Trust is the new experience, and it’s for all of us to design. Follow for blog posts on design, technology and trust by the team at IF. - Medium",
   "link": "https://medium.com/writing-by-if?source=rss----d5b13bdf0ba5---4",
   "items": [
+    {
+      "id": "https://medium.com/p/8e54daeb5b41",
+      "title": "Consent is a relationship, not a transaction",
+      "link": "https://medium.com/writing-by-if/consent-is-a-relationship-not-a-transaction-8e54daeb5b41?source=rss----d5b13bdf0ba5---4",
+      "published": "Wed, 22 Jul 2026 08:16:01 GMT",
+      "updated": "2026-07-22T08:16:01.598Z",
+      "author": "Sarah Gold",
+      "categories": [],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*G9fwHiAp_fj1dchjpYl95w.png",
+      "excerpt": "This is how consent works across most digital services today: someone using a device is blocked from continuing their journey until they tap a banner or pop-up. There’s a vague awareness they probably should have read something, but didn’t. Then, nothing; no visibility of what’s happening as a…"
+    },
     {
       "id": "https://medium.com/p/aa5491fb5dc5",
       "title": "Scrapping Digital ID is the wrong right decision",
@@ -102,17 +113,6 @@
       "categories": [],
       "image": "https://cdn-images-1.medium.com/max/1024/1*a4-oXD5xHq1SdGwjzknRvg.jpeg",
       "excerpt": "We’re in a moment right now that design leaders should be excited about. Amidst a wave of AI explorations and pilots, organisations are starting to commit to an agentic future, and to confront a more fundamental question: what does it actually feel like to use products and services when AI is…"
-    },
-    {
-      "id": "https://medium.com/p/81200b453e88",
-      "title": "Leading in a relational world",
-      "link": "https://medium.com/writing-by-if/leading-in-a-relational-world-81200b453e88?source=rss----d5b13bdf0ba5---4",
-      "published": "Tue, 03 Mar 2026 14:20:08 GMT",
-      "updated": "2025-10-28T09:36:24.143Z",
-      "author": "Sarah Gold",
-      "categories": [],
-      "image": "https://cdn-images-1.medium.com/max/1024/1*2SKZKFPJu0XQAc5voDHPGA.jpeg",
-      "excerpt": "If you’re leading a digital team, you’ve probably felt the frustration: the strategy’s solid, the data’s good, but progress still stalls. It’s rarely the technology. More often, it’s the relationships. I want to offer an idea. We’re still treating data and AI as things to control instead of…"
     }
   ]
 }
